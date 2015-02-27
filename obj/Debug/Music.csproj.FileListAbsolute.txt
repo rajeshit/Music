@@ -1,7 +1,0 @@
-E:\Website\Music\bin\Music.dll
-E:\Website\Music\bin\Music.pdb
-E:\Website\Music\bin\EntityFramework.dll
-E:\Website\Music\bin\EntityFramework.xml
-E:\Website\Music\obj\Debug\ResolveAssemblyReference.cache
-E:\Website\Music\obj\Debug\Music.dll
-E:\Website\Music\obj\Debug\Music.pdb
