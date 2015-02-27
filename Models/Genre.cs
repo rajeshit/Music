@@ -11,5 +11,7 @@ namespace Music.Models
         public string   Name        { get; set; }
         public string   Description { get; set; }
         public List<Album> Albums   { get; set; }
+        public int userid { get; set; }
+        public int branchidid { get; set; }
     }
 }
